@@ -2,6 +2,15 @@
 
 export const bangs = [
   {
+    c: "Online Services",
+    d: "127.0.0.1:8081",
+    r: 0,
+    s: "SearchXNG",
+    sc: "Search",
+    t: "1",
+    u: "https://127.0.0.1:8081/search?q={{s}}}",
+  },
+  {
     c: "AI",
     d: "www.t3.chat",
     r: 0,
