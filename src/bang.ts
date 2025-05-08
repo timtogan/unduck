@@ -8,7 +8,7 @@ export const bangs = [
     s: "SearchXNG",
     sc: "Search",
     t: "1",
-    u: "http://127.0.0.1:8081/search?q={{s}}}",
+    u: "http://127.0.0.1:8081/search?q={{{s}}}",
   },
   {
     c: "AI",
